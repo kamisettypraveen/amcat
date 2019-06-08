@@ -1,4 +1,4 @@
-# include <stdio.h>
+:# include <stdio.h>
 main
 (
 qiiqd
@@ -12,5 +12,9 @@ dnjhdnkd'djjdjsd
 kjdbadmd
 dkqndjd
 dwwdws
-l
+dndkmkm
+congreds 
+bjp 
+ysrcp
+
 
