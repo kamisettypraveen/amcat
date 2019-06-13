@@ -1,4 +1,4 @@
-:# include <stdio.h>
+# include <stdio.h>
 main
 (
 qiiqd
@@ -16,5 +16,7 @@ dndkmkm
 congreds 
 bjp 
 ysrcp
+a=10;
+}
 
 
