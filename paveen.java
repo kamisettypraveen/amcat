@@ -7,4 +7,12 @@ printf("enter the number");
 echo "praveen"
 echo   vvvb
 jhgjk
-gjjk
+
+njdna
+dzdhzbj
+nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnd
+nhbjxnlm
+njzcbznckzczc
+zckc
+kkKdn;LLM
+JJDNlDmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
